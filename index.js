@@ -54,8 +54,8 @@ if(user.sync()) console.log('exist');
 client.on('message', message => 
 {
   //Waifu random
- let rand = Math.floor((Math.random() * 100) + 1);
- if(rand == 10) message.channel.send(waifu);
+ let 💩 = Math.floor((Math.random() * 100) + 1);
+ if(💩 == 10) message.channel.send(waifu);
  //Commands
  if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);	
