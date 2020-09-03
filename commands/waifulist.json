@@ -1,19 +1,20 @@
-"waifu":
-	[
+{
+	"laifu":
+		[
 
-	{
-		"name": "Ruda suka",
-		"anime": "Neon genesis evangelion",
-		"birthday": "30.02.-1022",
-		"img": "https://i.imgur.com/W6bqEvl.jpg"
-	},
-	{
-		"name": "Ruda suka",
-		"anime": "Neon genesis evangelion",
-		"birthday": "30.02.-1022",
-		"img": ""
-	},
+			{
+				"name": "Ruda suka",
+				"anime": "Neon genesis evangelion",
+				"birthday": "04.12.2001",
+				"img": "https://i.imgur.com/BqXsBGB.jpg"
+			},
+			{
+				"name": "Megumin",
+				"anime": "Konosuba",
+				"birthday": "????",
+				"img": "https://i.imgur.com/pKJbI7d.jpg"
+			}
 
-	]
-
+		]
+}
 	

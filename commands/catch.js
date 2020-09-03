@@ -3,11 +3,11 @@ module.exports = {
 	description: 'catch',
 	execute(message, args, user) {
 	    const Discord = require('discord.js');
-		const 🍎 = message.content.slice(8);
+		const waifu = message.content.slice(8);
 		if(waifu == "") return;
 		else
 		{
-		switch(🍎)
+		switch(waifu)
 		{
 		case 'Megumin':
 		message.channel.send("she's only 14 you disgusting lolicon.");
