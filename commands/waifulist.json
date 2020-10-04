@@ -3,16 +3,39 @@
 		[
 
 			{
-				"name": "Ruda suka",
+				"name": "Asuka Langley Sohryui",
 				"anime": "Neon genesis evangelion",
-				"birthday": "04.12.2001",
-				"img": "https://i.imgur.com/BqXsBGB.jpg"
+				"sex": "♀",
+				"img": "https://i.imgur.com/BqXsBGB.jpg",
+				"initials": "A.L.S"
 			},
 			{
 				"name": "Megumin",
 				"anime": "Konosuba",
-				"birthday": "????",
-				"img": "https://i.imgur.com/pKJbI7d.jpg"
+				"sex": "♀",
+				"img": "https://i.imgur.com/pKJbI7d.jpg",
+				"initials": "M"
+			},
+			{
+				"name": "Zero Two",
+				"anime": "Darling in the franxx",
+				"sex": "♀",
+				"img": "https://i.imgur.com/pKJbI7d.jpg",
+				"initials": "Z.T"
+			},
+			{
+				"name": "Sakury Matou",
+				"anime": "",
+				"sex": "♀/♂",
+				"img": "",
+				"initials": "S.M"
+			},
+			{
+				"name": "",
+				"anime": "",
+				"sex": "♀/♂",
+				"img": "",
+				"initials": ""
 			}
 
 		]

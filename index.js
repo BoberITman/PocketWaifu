@@ -24,7 +24,7 @@ client.on('message', message =>
   //Waifu random
  let rand = Math.floor((Math.random() * 100) + 1);
  console.log(rand);
- if(rand == 10) client.commands.get('waifu').execute(message, args);
+ if(rand == 10) client.commands.get('jp').execute(message);
  //Commands
  if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);	
