@@ -4,8 +4,8 @@ module.exports = {
     execute(message){
         const Discord = require('discord.js');
         let waifulist = require('./waifulist.json');
-        let rand = 5;
-        while(rand>4)
+        let rand = waifulist.laifu.length+1;
+        while(rand >  waifulist.laifu.length)
         {
         rand = Math.floor((Math.random() * 100));
         }

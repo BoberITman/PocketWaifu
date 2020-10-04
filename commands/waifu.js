@@ -10,7 +10,7 @@ module.exports = {
 		.setColor("#ff5e54")
 		.setTitle(waifulist.laifu[waifuid].name)
 		.setImage(waifulist.laifu[waifuid].img)
-		.addField('Birthday',waifulist.laifu[waifuid].birthday)
+		.addField('Sex',waifulist.laifu[waifuid].sex)
 		.addField('Anime/Manga',waifulist.laifu[waifuid].anime);
 	message.channel.send(embed);
 	},

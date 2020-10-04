@@ -25,17 +25,24 @@
 			},
 			{
 				"name": "Sakury Matou",
-				"anime": "",
-				"sex": "♀/♂",
-				"img": "",
+				"anime": "Fate/stay night",
+				"sex": "♀",
+				"img": "https://i.imgur.com/xIFAKDk.jpg",
 				"initials": "S.M"
 			},
 			{
-				"name": "",
-				"anime": "",
-				"sex": "♀/♂",
-				"img": "",
-				"initials": ""
+				"name": "Rin Tohsaka",
+				"anime": "Fate/stay night",
+				"sex": "♀",
+				"img": "https://i.imgur.com/ahvfL6S.jpeg",
+				"initials": "R.T"
+			},
+			{
+				"name": "Raphtalia",
+				"anime": "The Rising of Shield Hero",
+				"sex": "♀",
+				"img": "https://i.imgur.com/FO4Mvde.jpg",
+				"initials": "R"
 			}
 
 		]
