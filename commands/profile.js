@@ -1,7 +1,7 @@
 module.exports = {
 	name: 'me',
 	description: 'me',
-	execute(message, args, user) {
+	execute(message, args) {
 	const Discord = require('discord.js');	
 	const sequelize = require('sequelize')
 	let Id = message.author.id;

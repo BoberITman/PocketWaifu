@@ -1,7 +1,7 @@
 module.exports = {
 	name: 'catch',
 	description: 'catch',
-	execute(message, args, user) {
+	execute(message, args) {
 	    const Discord = require('discord.js');
 		const waifu = message.content.slice(8);
 		if(waifu == "") return;
