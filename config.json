@@ -1,7 +1,8 @@
 {
 "prefix": "w.",
 "token": "NzMwNzQ3MDQyMDY1ODA5NDY5.Xwb_kg.NVl9m-mQU42fPoNVl-OW-fwmQrk",
-"dbname": "rb",
-"dbuser": "Bot",
-"dbpassword": "Napoleon2003"
+"dbname": "mydb",
+"dbuser": "user",
+"dbpassword": "248163264128",
+"host": "localhost"
 }

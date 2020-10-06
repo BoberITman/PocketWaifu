@@ -1,8 +1,9 @@
 module.exports = {
 	name: 'me',
 	description: 'me',
-	execute(message, args) {
-	const Discord = require('discord.js');	
+	execute(message, args, db) {
+	const Discord = require('discord.js');
+	const mysql = require('mysql')
 	let Id = message.author.id;
 	let waifucount = 0;
 	let coins = 3;
@@ -16,8 +17,5 @@ module.exports = {
 		.addField('Tickets',tickets)
 		.addField('MAL',malname);
 	message.channel.send(embed);
-	user.count().then(c => {
-  	console.log("There are " + c + " projects!");
-	})
 	},
 };

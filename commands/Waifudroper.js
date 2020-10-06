@@ -1,7 +1,7 @@
 module.exports = {
 	name: 'jp',
 	description: 'jp',
-    execute(message){
+    execute(message, db){
         const Discord = require('discord.js');
         let waifulist = require('./waifulist.json');
         let rand = waifulist.laifu.length;

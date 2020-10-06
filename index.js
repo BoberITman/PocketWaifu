@@ -1,11 +1,21 @@
 //libs
 const fs = require('fs');
 const Discord = require('discord.js');
-const { prefix, token, dbname, dbuser, dbpassword, waifu } = require('./config.json');
+const mysql = require('mysql');
+const { prefix, token, dbname, dbuser, dbpassword, host } = require('./config.json');
 //Initialization
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
-
+//Database connection
+let db = mysql.createConnection({
+	host: host,
+	user: dbuser,
+	password: dbpassword
+  });
+  db.connect(function(err) {
+	if (err) throw err;
+	console.log("Connected!");
+  });
 //Command files 
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
 
@@ -24,7 +34,7 @@ client.on('message', message =>
   //Waifu random
  let rand = Math.floor((Math.random() * 100) + 1);
  console.log(rand);
- if(rand == 6) client.commands.get('jp').execute(message);
+ if(rand == 6) client.commands.get('jp').execute(message, db);
  //Commands
  if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);	
@@ -32,7 +42,7 @@ client.on('message', message =>
   //Errors
  if (!client.commands.has(command)) return;
    try {
-	client.commands.get(command).execute(message, args);
+	client.commands.get(command).execute(message, args, db);
 }  catch (error) {
 	console.error(error);
 	message.reply('there was an error trying to execute that command!');
