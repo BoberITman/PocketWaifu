@@ -4,6 +4,7 @@ module.exports = {
     execute(message, db){
         const Discord = require('discord.js');
         let waifulist = require('./waifulist.json');
+        let mysql = require('mysql');
         let rand = waifulist.laifu.length;
         while(rand >  waifulist.laifu.length - 1)
         {
