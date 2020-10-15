@@ -5,19 +5,21 @@ module.exports = {
 	const Discord = require('discord.js');
 	const mysql = require('mysql');
 	db.query('USE mydb');
-	//let userdb = db.query("INSERT INTO users (id, , tele)SELECT * FROM (SELECT 'Rupert', 'Somewhere', '022') AS tmpWHERE NOT EXISTS (SELECT name FROM table_listnames WHERE name = 'Rupert') LIMIT 1;")
-	let Id = message.author.id;
-	let waifucount = 0;
-	let coins = 3;
-	let tickets = 4;
-	let malname = '-';
-	let embed = new Discord.MessageEmbed()
+	let sqlelel = 'SELECT * FROM users WHERE id =' + message.author.id  
+	db.query(sqlelel,(error, results, fields) => {
+		if (error) {
+		  return console.error(error.message);
+		}
+		let res = JSON.parse(JSON.stringify(results));
+		console.log(res)
+		let embed = new Discord.MessageEmbed()
 		.setColor("#ff5e54")
 		.setTitle(message.author.username)
 		.setImage(message.author.avatarURL())
-		.addField('Coins',coins) 
-		.addField('Tickets',tickets)
-		.addField('MAL',malname);
+		.addField('Waifupoints',res[0].waifupoints)
+		.addField('Tickets',res[0].tickets)
+		.addField('MAL',res[0].malname);
 	message.channel.send(embed);
+	});
 	},
 };
