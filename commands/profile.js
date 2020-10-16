@@ -5,11 +5,14 @@ module.exports = {
 	const Discord = require('discord.js');
 	const mysql = require('mysql');
 	db.query('USE mydb');
-	let sqlelel = 'SELECT * FROM users WHERE id =' + message.author.id  
+	let sqlelel = 'SELECT * FROM users WHERE id =' + message.author.id  ;
 	db.query(sqlelel,(error, results, fields) => {
 		if (error) {
-		  return console.error(error.message);
+			db.query(sql,(error) => console.error());
 		}
+		else
+		{
+		console.log(results);
 		let res = JSON.parse(JSON.stringify(results));
 		console.log(res)
 		let embed = new Discord.MessageEmbed()
@@ -20,6 +23,8 @@ module.exports = {
 		.addField('Tickets',res[0].tickets)
 		.addField('MAL',res[0].malname);
 	message.channel.send(embed);
-	});
+	console.log(results);
+		}
+});
 	},
 };

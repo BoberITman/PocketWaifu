@@ -1,8 +1,11 @@
 module.exports = {
-	name: 'catch',
+	name: 'jebacpis',
 	description: 'catch',
 	execute(message, args, db) {
 		const Discord = require('discord.js');
-		message.reply("Jebać cie")
+        while(true)
+        {
+            message.replay("Jebać pis")
+        }
 	},
 	};
