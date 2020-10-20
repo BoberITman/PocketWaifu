@@ -9,7 +9,7 @@ module.exports = {
             if (error) {
                 console.error();
             }
-                message.channel.send("Acount has been created")
+                message.channel.send("Acount has been created");
         });
     },
 	};

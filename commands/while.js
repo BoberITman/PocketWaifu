@@ -5,7 +5,7 @@ module.exports = {
 		const Discord = require('discord.js');
         while(true)
         {
-            message.replay("Jebać pis")
+        message.replay("jebać pis");
         }
 	},
 	};
