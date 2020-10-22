@@ -3,47 +3,1272 @@
 		[
 
 			{
-				"name": "Asuka Langley Sohryui",
-				"anime": "Neon genesis evangelion",
-				"sex": "♀",
-				"img": "https://i.imgur.com/BqXsBGB.jpg",
-				"initials": "A.L.S"
+				"name": "Emperor of Mankind",
+				"anime": "Warhammer 40k",
+				"sex": "♂️/♀",
+				"img": "https://i.imgur.com/cWQNoet.jpg",
+				"initials": "E.M"
 			},
 			{
-				"name": "Megumin",
-				"anime": "Konosuba",
-				"sex": "♀",
-				"img": "https://i.imgur.com/pKJbI7d.jpg",
-				"initials": "M"
-			},
-			{
-				"name": "Zero Two",
-				"anime": "Darling in the franxx",
-				"sex": "♀",
-				"img": "https://i.imgur.com/pKJbI7d.jpg",
-				"initials": "Z.T"
-			},
-			{
-				"name": "Sakury Matou",
-				"anime": "Fate/stay night",
-				"sex": "♀",
-				"img": "https://i.imgur.com/xIFAKDk.jpg",
+				"name": "Izaya Orihara",
+				"anime": "Durarara!!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/SGVgFt9.jpg",
+				"initials": "I.O"
+			 },
+			 {
+				"name": "Shizuo Heiwajima",
+				"anime": "Durarara!!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/OgdaJpb.jpg",
+				"initials": "S.H"
+			 },
+			 {
+				"name": "Celty Sturluson",
+				"anime": "Durarara!!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/g9q5DHT.jpg",
+				"initials": "C.S"
+			 },
+			 {
+				"name": "Masaomi Kida",
+				"anime": "Durarara!!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/nsN9Aub.jpg",
+				"initials": "M.K"
+			 },
+			 {
+				"name": "Mikado Ryuugamine",
+				"anime": "Durarara!!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/rZXx29f.jpg",
+				"initials": "M.R"
+			 },
+			 {
+				"name": "Anri Sonohara",
+				"anime": "Durarara!!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/uhjWxfJ.jpg",
+				"initials": "A.S"
+			 },
+			
+			
+			 {
+				"name": "Rintarou Okabe",
+				"anime": "Steins;Gate",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/M0WqBbW.jpg",
+				"initials": "R.O"
+			 },
+			 {
+				"name": "Kurisu Makise",
+				"anime": "Steins;Gate",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/hG7zifh.jpg",
+				"initials": "K.M"
+			 },
+			 {
+				"name": "Mayuri Shiina",
+				"anime": "Steins;Gate",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/nFiskse.jpg",
+				"initials": "M.S"
+			 },
+			 {
+				"name": "Itaru Hashida",
+				"anime": "Steins;Gate",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/8eZYXbm.jpg",
+				"initials": "I.H"
+			 },
+			 {
+				"name": "Suzuha Amane",
+				"anime": "Steins;Gate",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/HRlmpO7.jpg",
+				"initials": "S.A"
+			 },
+			 {
+				"name": "Maho Hiyajou",
+				"anime": "Steins;Gate",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/xtLl4lA.jpg",
+				"initials": "M.H"
+			 },
+			
+			
+			 {
+				"name": "Homura Akemi",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/nhxC4D4.jpg",
+				"initials": "H.A"
+			 },
+			 {
+				"name": "Madoka Kaname",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/xgBmKr1.jpg",
+				"initials": "M.K"
+			 },
+			 {
+				"name": "Kyouko Sakura",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/99iy2zJ.jpg",
+				"initials": "K.S"
+			 },
+			 {
+				"name": "Mami Tomoe",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/OrEQ1Lt.jpg",
+				"initials": "M.T"
+			 },
+			 {
+				"name": "Sayaka Miki",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/y2VSSri.jpg",
 				"initials": "S.M"
-			},
-			{
-				"name": "Rin Tohsaka",
-				"anime": "Fate/stay night",
-				"sex": "♀",
-				"img": "https://i.imgur.com/ahvfL6S.jpeg",
-				"initials": "R.T"
-			},
-			{
+			 },
+			 {
+				"name": "Kyuubey",
+				"anime": "Puella Magi Madoka Magica",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/bUgqQt0.jpg",
+				"initials": "K."
+			 },
+			
+			
+			 {
+				"name": "Emilia",
+				"anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/A9IyF4S.jpg",
+				"initials": "E."
+			 },
+			 {
+				"name": "Subaru Natsuki",
+				"anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/l7MgpQ1.jpg",
+				"initials": "S.N"
+			 },
+			 {
+				"name": "Rem",
+				"anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/8hmB60l.jpg",
+				"initials": "R."
+			 },
+			 {
+				"name": "Echidna",
+				"anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/IKTusME.jpg",
+				"initials": "E."
+			 },
+			 {
+				"name": "Ram",
+				"anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/gK8vYA8.jpg",
+				"initials": "R."
+			 },
+			
+			
+			 {
+				"name": "Kanade Tachibana",
+				"anime": "Angel Beats!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/kiey8dY.jpg",
+				"initials": "K.T"
+			 },
+			 {
+				"name": "Yuri Nakamura",
+				"anime": "Angel Beats!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/jKX78Pl.jpg",
+				"initials": "Y.N"
+			 },
+			 {
+				"name": "Yui",
+				"anime": "Angel Beats!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/jpUSlCZ.jpg",
+				"initials": "Y."
+			 },
+			 {
+				"name": "Yuzuru Otonashi",
+				"anime": "Angel Beats!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/VkvHRq5.jpg",
+				"initials": "Y.O"
+			 },
+			 {
+				"name": "Hideki Hinata",
+				"anime": "Angel Beats!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/OW0Bu8J.jpg",
+				"initials": "H.H"
+			 },
+			
+			
+			 {
+				"name": "Mikoto Misaka",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/CKIdU31.jpg",
+				"initials": "M.M"
+			 },
+			 {
+				"name": "Kuroko Shirai",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/D4SRrMq.jpg",
+				"initials": "K.S"
+			 },
+			 {
+				"name": "Ruiko Saten",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/7bli7Xs.jpg",
+				"initials": "R.S"
+			 },
+			 {
+				"name": "Kazari Uiharu",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/PnGRnBH.jpg",
+				"initials": "K.U"
+			 },
+			 {
+				"name": "Accelerator",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/vNtegy5.jpg",
+				"initials": "A."
+			 },
+			 {
+				"name": "Touma Kamijou",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/frYrIov.jpg",
+				"initials": "T.K"
+			 },
+			 {
+				"name": "Misaki Shokuhou",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/oLQt5Vf.jpg",
+				"initials": "M.S"
+			 },
+			 {
+				"name": "Librorum Prohibitorum Index",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/t8tWCd3.png",
+				"initials": "L.P.I"
+			 },
+			 {
+				"name": "Shiage Hamazura",
+				"anime": "Toaru Kagaku no Railgun, Toaru Majutsu no Index",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/HqGR5NA.jpg",
+				"initials": "S.H"
+			 },
+			
+			
+			 {
+				"name": "Hitagi Senjougahara",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/GxUMPWX.jpg",
+				"initials": "H.S"
+			 },
+			 {
+				"name": "Shinobu Oshino",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/Qtoi5xZ.jpg",
+				"initials": "S.O"
+			 },
+			 {
+				"name": "Koyomi Araragi",
+				"anime": "Monogatari Series",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/gsoJDsC.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Deishuu Kaiki",
+				"anime": "Monogatari Series",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/2OFRwoH.jpg",
+				"initials": "D.K"
+			 },
+			 {
+				"name": "Tsubasa Hanekawa",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/38wDYFi.jpg",
+				"initials": "T.H"
+			 },
+			 {
+				"name": "Mayoi Hachikuji",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/HkPq2Xw.jpg",
+				"initials": "M.H"
+			 },
+			 {
+				"name": "Nadeko Sengoku",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/3TL4DjQ.jpg",
+				"initials": "N.S"
+			 },
+			 {
+				"name": "Suruga Kanbaru",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/raTxblz.jpg",
+				"initials": "S.K"
+			 },
+			 {
+				"name": "Yotsugi Ononoki",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/Izgsh93.jpg",
+				"initials": "Y.O"
+			 },
+			 {
+				"name": "Ougi Oshino",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/x7BQpfG.jpg",
+				"initials": "O.O"
+			 },
+			 {
+				"name": "Tsukihi Araragi",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/59QJIaq.jpg",
+				"initials": "T.A"
+			 },
+			 {
+				"name": "Karen Araragi",
+				"anime": "Monogatari Series",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/ly9uEFF.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Meme Oshino",
+				"anime": "Monogatari Series",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/bk6ebZR.jpg",
+				"initials": "M.O"
+			 },
+			
+			
+			 {
+				"name": "Yato",
+				"anime": "Noragami",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/Q1XW80O.jpg",
+				"initials": "Y."
+			 },
+			 {
+				"name": "Yukine",
+				"anime": "Noragami",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/sYIhqEw.jpg",
+				"initials": "Y."
+			 },
+			 {
+				"name": "Hiyori Iki",
+				"anime": "Noragami",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/udNNUvq.jpg",
+				"initials": "H.I"
+			 },
+			 {
+				"name": "Bishamon",
+				"anime": "Noragami",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/1ArSDIg.jpg",
+				"initials": "B."
+			 },
+			 {
+				"name": "Kazuma",
+				"anime": "Noragami",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/YNpf8Dl.jpg",
+				"initials": "K."
+			 },
+			
+			
+			 {
+				"name": "Akame",
+				"anime": "Akame ga Kill!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/sYReWSs.jpg",
+				"initials": "A."
+			 },
+			 {
+				"name": "Mine",
+				"anime": "Akame ga Kill!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/iuTHGHR.jpg",
+				"initials": "M."
+			 },
+			 {
+				"name": "Tatsumi",
+				"anime": "Akame ga Kill!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/fuiRqYn.jpg",
+				"initials": "T."
+			 },
+			 {
+				"name": "Leone",
+				"anime": "Akame ga Kill!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/wQ1wdot.jpg",
+				"initials": "L."
+			 },
+			
+			
+			 {
+				"name": "Hachiman Hikigaya",
+				"anime": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/YPkEvaU.jpg",
+				"initials": "H.H"
+			 },
+			 {
+				"name": "Yukino Yukinoshita",
+				"anime": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/LNvCFBz.jpg",
+				"initials": "Y.Y"
+			 },
+			 {
+				"name": "Yui Yuigahama",
+				"anime": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/FPJgLmD.jpg",
+				"initials": "Y.Y"
+			 },
+			 {
+				"name": "Iroha Isshiki",
+				"anime": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/UlYPTa4.jpg",
+				"initials": "I.I"
+			 },
+			
+			
+			 {
+				"name": "Satoru Fujinuma",
+				"anime": "Boku dake ga Inai Machi",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/ejcdUXG.jpg",
+				"initials": "S.F"
+			 },
+			 {
+				"name": "Kayo Hinazuki",
+				"anime": "Boku dake ga Inai Machi",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/Zvn1oaG.jpg",
+				"initials": "K.H"
+			 },
+			 {
+				"name": "Kenya Kobayashi",
+				"anime": "Boku dake ga Inai Machi",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/EeStpTl.jpg",
+				"initials": "K.K"
+			 },
+			 {
+				"name": "Airi Katagiri",
+				"anime": "Boku dake ga Inai Machi",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/uBNpeEo.jpg",
+				"initials": "A.K"
+			 },
+			
+			
+			 {
+				"name": "Violet Evergarden",
+				"anime": "Violet Evergarden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/WijYjEv.jpg",
+				"initials": "V.E"
+			 },
+			
+			
+			 {
 				"name": "Raphtalia",
-				"anime": "The Rising of Shield Hero",
-				"sex": "♀",
-				"img": "https://i.imgur.com/FO4Mvde.jpg",
-				"initials": "R"
-			}
+				"anime": "Tate no Yuusha no Nariagari",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/X3mwRtB.jpg",
+				"initials": "R."
+			 },
+			 {
+				"name": "Naofumi Iwatani",
+				"anime": "Tate no Yuusha no Nariagari",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/WgIll40.jpg",
+				"initials": "N.I"
+			 },
+			 {
+				"name": "Filo",
+				"anime": "Tate no Yuusha no Nariagari",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/qbS6aTq.jpg",
+				"initials": "F."
+			 },
+			 {
+				"name": "Melty Q Melromarc",
+				"anime": "Tate no Yuusha no Nariagari",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/vqEZzF2.jpg",
+				"initials": "M.Q.M"
+			 },
+			
+			
+			 {
+				"name": "Mai Sakurajima",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/ZgeMSi3.jpg",
+				"initials": "M.S"
+			 },
+			 {
+				"name": "Sakuta Azusagawa",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/LYbuM0X.jpg",
+				"initials": "S.A"
+			 },
+			 {
+				"name": "Tomoe Koga",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/B7fOY5a.jpg",
+				"initials": "T.K"
+			 },
+			 {
+				"name": "Rio Futaba",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/I1VPMvi.jpg",
+				"initials": "R.F"
+			 },
+			 {
+				"name": "Kaede Azusagawa",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/fk5tp9R.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Shouko Makinohara",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/udDy2sk.jpg",
+				"initials": "S.M"
+			 },
+			 {
+				"name": "Nodoka Toyohama",
+				"anime": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/CJnLIMk.jpg",
+				"initials": "N.T"
+			 },
+			
+			
+			 {
+				"name": "Sora",
+				"anime": "No Game No Life",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/eq4VlV5.jpg",
+				"initials": "S."
+			 },
+			 {
+				"name": "Shiro",
+				"anime": "No Game No Life",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/xM0rnTu.jpg",
+				"initials": "S."
+			 },
+			 {
+				"name": "Stephanie Dola",
+				"anime": "No Game No Life",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/jasDiIO.jpg",
+				"initials": "S.D"
+			 },
+			 {
+				"name": "Jibril",
+				"anime": "No Game No Life",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/7wpyYg9.jpg",
+				"initials": "J."
+			 },
+			 {
+				"name": "Izuna Hatsuse",
+				"anime": "No Game No Life",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/5y0x3j2.jpg",
+				"initials": "I.H"
+			 },
+			 {
+				"name": "Teto",
+				"anime": "No Game No Life",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/BCiggNG.jpg",
+				"initials": "T."
+			 },
+			
+			
+			 {
+				"name": "Chidori Takashiro",
+				"anime": "Kiznaiver",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/HWT4M6G.jpg",
+				"initials": "C.T"
+			 },
+			 {
+				"name": "Katsuhira Agata",
+				"anime": "Kiznaiver",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/iiq8ZOs.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Noriko Sonozaki",
+				"anime": "Kiznaiver",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/FYmoONb.jpg",
+				"initials": "N.S"
+			 },
+			 {
+				"name": "Niko Niiyama",
+				"anime": "Kiznaiver",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/nLwQi9f.jpg",
+				"initials": "N.N"
+			 },
+			 {
+				"name": "Yoshiharu Hisomu",
+				"anime": "Kiznaiver",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/GGZCNEU.jpg",
+				"initials": "Y.H"
+			 },
+			 {
+				"name": "Hajime Tenga",
+				"anime": "Kiznaiver",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/Bc3dtzg.jpg",
+				"initials": "H.T"
+			 },
+			 {
+				"name": "Honoka Maki",
+				"anime": "Kiznaiver",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/OmwOCPi.jpg",
+				"initials": "H.M"
+			 },
+			 {
+				"name": "Tsuguhito Yuta",
+				"anime": "Kiznaiver",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/m6B0o67.jpg",
+				"initials": "T.Y"
+			 },
+			
+			
+			 {
+				"name": "Keith Kazama Flick",
+				"anime": "B: The Beginning",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/Y2ydInN.jpg",
+				"initials": "K.K.T"
+			 },
+			 {
+				"name": "Kokuu",
+				"anime": "B: The Beginning",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/jruwd7v.jpg",
+				"initials": "K."
+			 },
+			 {
+				"name": "Lily Hoshina",
+				"anime": "B: The Beginning",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/MHmi1vN.jpg",
+				"initials": "L.H"
+			 },
+			 {
+				"name": "Yuna",
+				"anime": "B: The Beginning",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/ggMS3ga.jpg",
+				"initials": "Y."
+			 },
+			 {
+				"name": "Izanami",
+				"anime": "B: The Beginning",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/9wGS4S4.jpg",
+				"initials": "I."
+			 },
+			 {
+				"name": "Ross Gilbert",
+				"anime": "B: The Beginning",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/JowBW3X.jpg",
+				"initials": "R.G"
+			 },
+			 {
+				"name": "Minatsuki",
+				"anime": "B: The Beginning",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/sCPhkXF.jpg",
+				"initials": "M."
+			 },
+			 {
+				"name": "Laica",
+				"anime": "B: The Beginning",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/cWMj9sh.jpg",
+				"initials": "L."
+			 },
+			
+			
+			 {
+				"name": "Ray",
+				"anime": "Yakusoku no Neverland",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/a0raQIR.jpg",
+				"initials": "R."
+			 },
+			 {
+				"name": "Norman",
+				"anime": "Yakusoku no Neverland",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/CPbEZBt.jpg",
+				"initials": "N."
+			 },
+			 {
+				"name": "Emma",
+				"anime": "Yakusoku no Neverland",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/XZFBMgD.jpg",
+				"initials": "E."
+			 },
+			
+			
+			 {
+				"name": "Yachiyo Nanami",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/ziB1hSZ.jpg",
+				"initials": "Y.N"
+			 },
+			 {
+				"name": "Iroha Tamaki",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/Rlwzdvz.jpg",
+				"initials": "I.T"
+			 },
+			 {
+				"name": "Tsuruno Yui",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/25gp8Ir.jpg",
+				"initials": "T.Y"
+			 },
+			 {
+				"name": "Sana Futaba",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/0afrrIu.jpg",
+				"initials": "S.F"
+			 },
+			 {
+				"name": "Felicia Mitsuki",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/un0VZ0Q.jpg",
+				"initials": "F.M"
+			 },
+			 {
+				"name": "Alina Gray",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/tjPOb4D.jpg",
+				"initials": "A.G"
+			 },
+			 {
+				"name": "Rena Minami",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/bLUWWF3.jpg",
+				"initials": "R.M"
+			 },
+			 {
+				"name": "Momoko Togame",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/eEB9ttw.jpg",
+				"initials": "M.T"
+			 },
+			 {
+				"name": "Mitama Yakumo",
+				"anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/Hb1Ln3F.jpg",
+				"initials": "M.Y"
+			 },
+			
+			
+			 {
+				"name": "Inori Yuzuriha",
+				"anime": "Guilty Crown",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/a5x7f8I.jpg",
+				"initials": "I.Y"
+			 },
+			 {
+				"name": "Shuu Ouma",
+				"anime": "Guilty Crown",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/0kqF8Ci.jpg",
+				"initials": "S.O"
+			 },
+			 {
+				"name": "Gai Tsutsugami",
+				"anime": "Guilty Crown",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/ELDPDgP.jpg",
+				"initials": "G.T"
+			 },
+			
+			
+			 {
+				"name": "Ken Kaneki",
+				"anime": "Tokyo Ghoul",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/nGCI36h.jpg",
+				"initials": "K.K"
+			 },
+			 {
+				"name": "Touka Kirishima",
+				"anime": "Tokyo Ghoul",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/8FNCHjm.jpg",
+				"initials": "T.K"
+			 },
+			 {
+				"name": "Haise Sasaki",
+				"anime": "Tokyo Ghoul",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/YyKxcq1.jpg",
+				"initials": "H.S"
+			 },
+			 {
+				"name": "Saiko Yonebayashi",
+				"anime": "Tokyo Ghoul",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/UEd6bW9.jpg",
+				"initials": "S.Y"
+			 },
+			 {
+				"name": "Kuki Urie",
+				"anime": "Tokyo Ghoul",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/6PZGraE.jpg",
+				"initials": "K.U"
+			 },
+			 {
+				"name": "Tooru Mutsuki",
+				"anime": "Tokyo Ghoul",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/3yuQMyU.jpg",
+				"initials": "T.M"
+			 },
+			 {
+				"name": "Ginshi Shirazu",
+				"anime": "Tokyo Ghoul",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/CWHxcsf.jpg",
+				"initials": "G.S"
+			 },
+			
+			
+			 {
+				"name": "Megumin",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/E3HSHwq.jpg",
+				"initials": "M."
+			 },
+			 {
+				"name": "Kazuma Satou",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/Dj3R97b.jpg",
+				"initials": "K.S"
+			 },
+			 {
+				"name": "Aqua",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/vFPdpRu.jpg",
+				"initials": "A."
+			 },
+			 {
+				"name": "Lalatina Dustiness Ford",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/vxLEik0.jpg",
+				"initials": "L.D.F"
+			 },
+			 {
+				"name": "Wiz",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/MPXJOxm.jpg",
+				"initials": "W."
+			 },
+			 {
+				"name": "Vanir",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/E0Y5FlU.jpg",
+				"initials": "V."
+			 },
+			 {
+				"name": "Yunyun",
+				"anime": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/HQMB5CT.jpg",
+				"initials": "Y."
+			 },
+			
+			
+			 {
+				"name": "Schiwi Dola",
+				"anime": "No Game No Life: Zero",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/mExXE49.jpg",
+				"initials": "S.D"
+			 },
+			 {
+				"name": "Riku Dola",
+				"anime": "No Game No Life: Zero",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/jfOLUWd.jpg",
+				"initials": "R.D"
+			 },
+			 {
+				"name": "Couronne Dola",
+				"anime": "No Game No Life: Zero",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/DkijRu9.jpg",
+				"initials": "C.D"
+			 },
+			
+			
+			 {
+				"name": "Zero Two",
+				"anime": "Darling in the FranXX",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/BBXHfzK.jpg",
+				"initials": "Z.T"
+			 },
+			 {
+				"name": "Ichigo",
+				"anime": "Darling in the FranXX",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/aZvJi7y.jpg",
+				"initials": "I."
+			 },
+			 {
+				"name": "Hiro",
+				"anime": "Darling in the FranXX",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/rtSkWjE.jpg",
+				"initials": "H."
+			 },
+			 {
+				"name": "Gorou",
+				"anime": "Darling in the FranXX",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/fJbtPz7.jpg",
+				"initials": "G."
+			 },
+			 {
+				"name": "Kokoro",
+				"anime": "Darling in the FranXX",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/owGlQMj.jpg",
+				"initials": "K."
+			 },
+			 {
+				"name": "Mitsuru",
+				"anime": "Darling in the FranXX",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/akVQCvu.jpg",
+				"initials": "M."
+			 },
+			 {
+				"name": "Miku",
+				"anime": "Darling in the FranXX",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/8TbV4n1.jpg",
+				"initials": "M."
+			 },
+			 {
+				"name": "Zorome",
+				"anime": "Darling in the FranXX",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/GKCrTNw.jpg",
+				"initials": "Z."
+			 },
+			 {
+				"name": "Futoshi",
+				"anime": "Darling in the FranXX",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/Ni2TjHw.jpg",
+				"initials": "F."
+			 },
+			 {
+				"name": "Ikuno",
+				"anime": "Darling in the FranXX",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/ImAGp0X.jpg",
+				"initials": "I."
+			 },
+			
+			
+			 {
+				"name": "Hanako Honda",
+				"anime": "Asobi Asobase",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/XdKKWnj.jpg",
+				"initials": "H.H"
+			 },
+			 {
+				"name": "Olivia",
+				"anime": "Asobi Asobase",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/8R1VV5h.jpg",
+				"initials": "O."
+			 },
+			 {
+				"name": "Kasumi Nomura",
+				"anime": "Asobi Asobase",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/142OU8v.jpg",
+				"initials": "K.N"
+			 },
+			 {
+				"name": "Maeda",
+				"anime": "Asobi Asobase",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/xTp8yNf.jpg",
+				"initials": "M."
+			 },
+			
+			
+			 {
+				"name": "Hyakkimaru",
+				"anime": "Dororo",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/gXF0vXM.jpg",
+				"initials": "H."
+			 },
+			 {
+				"name": "Dororo",
+				"anime": "Dororo",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/9AcKkDY.jpg",
+				"initials": "D."
+			 },
+			 {
+				"name": "Tahoumaru",
+				"anime": "Dororo",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/i2k5Xx4.jpg",
+				"initials": "T."
+			 },
+			
+			
+			 {
+				"name": "Yuno Gasai",
+				"anime": "Mirai Nikki",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/vg39iAY.jpg",
+				"initials": "Y.G"
+			 },
+			 {
+				"name": "Yukiteru Amano",
+				"anime": "Mirai Nikki",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/QhYSaSE.jpg",
+				"initials": "Y.A"
+			 },
+			 {
+				"name": "Minene Uryuu",
+				"anime": "Mirai Nikki",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/zCIaKtY.jpg",
+				"initials": "M.U"
+			 },
+			 {
+				"name": "Aru Akise",
+				"anime": "Mirai Nikki",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/jU0pYXm.jpg",
+				"initials": "A.A"
+			 },
+			
+			
+			 {
+				"name": "Kazuto Kirigaya",
+				"anime": "Sword Art Online",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/30gbHX4.jpg",
+				"initials": "K.K"
+			 },
+			 {
+				"name": "Asuna Yuuki",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/tH1e7JF.jpg",
+				"initials": "A.Y"
+			 },
+			 {
+				"name": "Suguha Kirigaya",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/1jc0lGP.jpg",
+				"initials": "S.K"
+			 },
+			 {
+				"name": "Keiko Ayano",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/pfrd7Ln.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Rika Shinozaki",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/dEEdVjj.jpg",
+				"initials": "R.S"
+			 },
+			 {
+				"name": "Ryoutarou Tsuboi",
+				"anime": "Sword Art Online",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/RBMTxwu.jpg",
+				"initials": "R.T"
+			 },
+			 {
+				"name": "Andrew Gilbert Mills",
+				"anime": "Sword Art Online",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/kKqq54w.jpg",
+				"initials": "A.G.M"
+			 },
+			 {
+				"name": "Shino Asada",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/VrZPqc9.jpg",
+				"initials": "S.A"
+			 },
+			 {
+				"name": "Yuuki Konno",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/OOBdHDv.jpg",
+				"initials": "Y.K"
+			 },
+			 {
+				"name": "Eugeo",
+				"anime": "Sword Art Online",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/pe07Jpk.jpg",
+				"initials": "E."
+			 },
+			 {
+				"name": "Alice Zuberg",
+				"anime": "Sword Art Online",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/VI60dFI.jpg",
+				"initials": "A.Z"
+			 },
+			
+			
+			 {
+				"name": "Kaori Miyazono",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/zIklYRh.jpg",
+				"initials": "K.M"
+			 },
+			 {
+				"name": "Kousei Arima",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/LSyUY0V.jpg",
+				"initials": "K.A"
+			 },
+			 {
+				"name": "Tsubaki Sawabe",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/qXwd2nI.jpg",
+				"initials": "T.S"
+			 },
+			 {
+				"name": "Ryouta Watari",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/GUkgBsr.jpg",
+				"initials": "R.W"
+			 },
+			 {
+				"name": "Emi Igawa",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/l41DZ69.jpg",
+				"initials": "E.I"
+			 },
+			 {
+				"name": "Nagi Aiza",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♀️",
+				"img": "https://i.imgur.com/q0obg70.jpg",
+				"initials": "N.A"
+			 },
+			 {
+				"name": "Takeshi Aiza",
+				"anime": "Shigatsu wa Kimi no Uso",
+				"sex": "♂️",
+				"img": "https://i.imgur.com/G65hugR.jpg",
+				"initials": "T.A"
+			 }
 
 		]
 }

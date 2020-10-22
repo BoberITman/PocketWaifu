@@ -33,7 +33,6 @@ client.once('ready', () => {
 client.on('message', message => 
 {
   //Waifu random
- let currentwaifu;
  let rand = Math.floor((Math.random() * 100) + 1);
  console.log(rand);
  if(rand <= 10) 
@@ -50,9 +49,9 @@ client.on('message', message =>
 		.setImage(waifulist.laifu[rand].img);
 	message.channel.send(embed);
 	console.log('Jebać pis', rand);
-	currentwaifu = rand;
  }
- //Commands
+ let currentwaifu = rand;
+ //Commands	
  if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);	
   const command = args.shift().toLowerCase();
