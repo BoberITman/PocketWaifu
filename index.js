@@ -37,21 +37,10 @@ client.on('message', message =>
  console.log(rand);
  if(rand <= 10) 
  {
-	let rand = waifulist.laifu.length;
-	while(rand >  waifulist.laifu.length - 1)
-	{
-	rand = Math.floor((Math.random() * 100));
-	}
-	let embed = new Discord.MessageEmbed()
-		.setColor("#ff5e54")
-		.setTitle("Waifu appeared!!!")
-		.addField("Initials",waifulist.laifu[rand].initials)
-		.setImage(waifulist.laifu[rand].img);
-	message.channel.send(embed);
-	console.log('Jebać pis', rand);
+	client.commands.get("drop").execute(message, db);
  }
- let currentwaifu = rand;
- //Commands	
+ let currentwaifu = rand
+  //Commands	
  if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);	
   const command = args.shift().toLowerCase();
